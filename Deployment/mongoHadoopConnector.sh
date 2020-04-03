@@ -1,1 +1,0 @@
-java -cp "mongoHadoopConnector.jar:lib/*" com.traq.mongo.hadoop.main.HadoopMongoConnector
